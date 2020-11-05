@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\lab3forms\lab3forms\bin\Debug\lab3forms.exe.config
+C:\Users\User\source\repos\lab3forms\lab3forms\bin\Debug\lab3forms.exe
+C:\Users\User\source\repos\lab3forms\lab3forms\bin\Debug\lab3forms.pdb
+C:\Users\User\source\repos\lab3forms\lab3forms\obj\Debug\lab3forms.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab3forms\lab3forms\obj\Debug\lab3forms.Form1.resources
+C:\Users\User\source\repos\lab3forms\lab3forms\obj\Debug\lab3forms.Properties.Resources.resources
+C:\Users\User\source\repos\lab3forms\lab3forms\obj\Debug\lab3forms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\lab3forms\lab3forms\obj\Debug\lab3forms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab3forms\lab3forms\obj\Debug\lab3forms.exe
+C:\Users\User\source\repos\lab3forms\lab3forms\obj\Debug\lab3forms.pdb
